@@ -58,7 +58,7 @@ else:
     print("Overflow will occur")
 ````
 ## Output :
-
+````
 Enter mean inter arrival time (secs):  12
 Enter service time of Lathe Machine (secs):  1
 Enter service time of Robot (secs):  7
@@ -70,7 +70,7 @@ Waiting time in system = 24.0 secs
 Waiting time in conveyor = 16.0 secs
 Probability system busy = 0.67
 Probability system empty = 0.33
-
+````
 ## Result :
 
 Hence, the queuing system operates without overflow and the performance measures are calculated successfully.
