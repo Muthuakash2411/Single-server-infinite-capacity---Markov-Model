@@ -72,5 +72,4 @@ Probability system busy = 0.67
 Probability system empty = 0.33
 ````
 ## Result :
-
 Hence, the queuing system operates without overflow and the performance measures are calculated successfully.
